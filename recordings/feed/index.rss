@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Recordings Archive - Pacific Serenades</title>
+	<atom:link href="http://pacser.org/recordings/feed/" rel="self" type="application/rss+xml" />
+	<link>http://pacser.org/recordings/</link>
+	<description>New chamber music from the west coast</description>
+	<lastBuildDate>Wed, 17 Feb 2016 07:03:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>War Scrap—that we may have peace</title>
+		<link>http://pacser.org/recordings/war-scrap-that-we-may-have-peace/</link>
+		
+		<dc:creator><![CDATA[Heather Henderson]]></dc:creator>
+		<pubDate>Wed, 01 Jul 2015 01:58:47 +0000</pubDate>
+				<guid isPermaLink="false">http://pacser.org/?post_type=recording&#038;p=191</guid>
+
+					<description><![CDATA[<p>On a trip to Laos, John Steinmetz was so overcome by the sight of craters and bomb casings littering the ...</p>
+<p>The post <a href="http://pacser.org/recordings/war-scrap-that-we-may-have-peace/">War Scrap—that we may have peace</a> appeared first on <a href="http://pacser.org">Pacific Serenades</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>On a trip to Laos, John Steinmetz was so overcome by the sight of craters and bomb casings littering the countryside&#8211;the remants of a secret campaign&#8211;that he was moved to make a musical statement on war. A few years later, I felt compelled by another impending war to do the same. With this CD, we want to deepen the dialogue that these artistic commentaries are a part of. Certainly, one of many reasons we need to find ways to solve problems without waging war is so that human life will continue, one generation to the next. Thus, Larry Lipkis&#8217;s piece on that very subject is a perfect extension of this dialogue.</p>
+<p>—Mark Carlson, Artistic Director, Pacific Serenades</p>
+<p>The post <a href="http://pacser.org/recordings/war-scrap-that-we-may-have-peace/">War Scrap—that we may have peace</a> appeared first on <a href="http://pacser.org">Pacific Serenades</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Border Crossings</title>
+		<link>http://pacser.org/recordings/border-crossings/</link>
+		
+		<dc:creator><![CDATA[Heather Henderson]]></dc:creator>
+		<pubDate>Tue, 01 Jul 2014 02:15:23 +0000</pubDate>
+				<guid isPermaLink="false">http://pacser.org/?post_type=recording&#038;p=196</guid>
+
+					<description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ...</p>
+<p>The post <a href="http://pacser.org/recordings/border-crossings/">Border Crossings</a> appeared first on <a href="http://pacser.org">Pacific Serenades</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>The post <a href="http://pacser.org/recordings/border-crossings/">Border Crossings</a> appeared first on <a href="http://pacser.org">Pacific Serenades</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The Hall of Mirrors</title>
+		<link>http://pacser.org/recordings/the-hall-of-mirrors/</link>
+		
+		<dc:creator><![CDATA[Heather Henderson]]></dc:creator>
+		<pubDate>Mon, 01 Jul 2013 02:16:36 +0000</pubDate>
+				<guid isPermaLink="false">http://pacser.org/?post_type=recording&#038;p=199</guid>
+
+					<description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ...</p>
+<p>The post <a href="http://pacser.org/recordings/the-hall-of-mirrors/">The Hall of Mirrors</a> appeared first on <a href="http://pacser.org">Pacific Serenades</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>The post <a href="http://pacser.org/recordings/the-hall-of-mirrors/">The Hall of Mirrors</a> appeared first on <a href="http://pacser.org">Pacific Serenades</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

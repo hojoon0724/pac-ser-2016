@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>baritone Archives - Pacific Serenades</title>
+	<atom:link href="http://pacser.org/instrumentation/baritone/feed/" rel="self" type="application/rss+xml" />
+	<link>http://pacser.org/instrumentation/baritone/</link>
+	<description>New chamber music from the west coast</description>
+	<lastBuildDate>Thu, 15 Jul 2021 18:53:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>Carlson Songs of Rumi</title>
+		<link>http://pacser.org/music/carlson-songs-of-rumi/</link>
+		
+		<dc:creator><![CDATA[Joseph Maddela]]></dc:creator>
+		<pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+				<guid isPermaLink="false">http://pacser.org/?post_type=music&#038;p=1466</guid>
+
+					<description><![CDATA[<p>The post <a href="http://pacser.org/music/carlson-songs-of-rumi/">Carlson Songs of Rumi</a> appeared first on <a href="http://pacser.org">Pacific Serenades</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a href="http://pacser.org/music/carlson-songs-of-rumi/">Carlson Songs of Rumi</a> appeared first on <a href="http://pacser.org">Pacific Serenades</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Morell Four Songs</title>
+		<link>http://pacser.org/music/morell-four-songs/</link>
+		
+		<dc:creator><![CDATA[Joseph Maddela]]></dc:creator>
+		<pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+				<guid isPermaLink="false">http://pacser.org/?post_type=music&#038;p=1532</guid>
+
+					<description><![CDATA[<p>The post <a href="http://pacser.org/music/morell-four-songs/">Morell Four Songs</a> appeared first on <a href="http://pacser.org">Pacific Serenades</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a href="http://pacser.org/music/morell-four-songs/">Morell Four Songs</a> appeared first on <a href="http://pacser.org">Pacific Serenades</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Carlson This Is the Garden</title>
+		<link>http://pacser.org/music/carlson-this-is-the-garden/</link>
+		
+		<dc:creator><![CDATA[Joseph Maddela]]></dc:creator>
+		<pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+				<guid isPermaLink="false">http://pacser.org/?post_type=music&#038;p=1278</guid>
+
+					<description><![CDATA[<p>The Moon Is Hiding in Her Hair In Time Of&#8230; This Is the Garden</p>
+<p>The post <a href="http://pacser.org/music/carlson-this-is-the-garden/">Carlson This Is the Garden</a> appeared first on <a href="http://pacser.org">Pacific Serenades</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The Moon Is Hiding in Her Hair<br />
+In Time Of&#8230;<br />
+This Is the Garden</p>
+<p>The post <a href="http://pacser.org/music/carlson-this-is-the-garden/">Carlson This Is the Garden</a> appeared first on <a href="http://pacser.org">Pacific Serenades</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

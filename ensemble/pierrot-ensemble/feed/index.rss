@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Pierrot Ensemble Archives - Pacific Serenades</title>
+	<atom:link href="http://pacser.org/ensemble/pierrot-ensemble/feed/" rel="self" type="application/rss+xml" />
+	<link>http://pacser.org/ensemble/pierrot-ensemble/</link>
+	<description>New chamber music from the west coast</description>
+	<lastBuildDate>Fri, 28 May 2021 01:26:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>Bourland Serenade No.2</title>
+		<link>http://pacser.org/music/bourland-serenade-no2/</link>
+		
+		<dc:creator><![CDATA[Joseph Maddela]]></dc:creator>
+		<pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+				<guid isPermaLink="false">http://pacser.org/?post_type=music&#038;p=1235</guid>
+
+					<description><![CDATA[<p>Delightful, dark, happy, eclectic, and tuneful piece for Pierrot ensemble—and such fun to play!</p>
+<p>The post <a href="http://pacser.org/music/bourland-serenade-no2/">Bourland Serenade No.2</a> appeared first on <a href="http://pacser.org">Pacific Serenades</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a href="http://pacser.org/music/bourland-serenade-no2/">Bourland Serenade No.2</a> appeared first on <a href="http://pacser.org">Pacific Serenades</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Carlson Serenade No. 2</title>
+		<link>http://pacser.org/music/carlson-serenade-no-2/</link>
+		
+		<dc:creator><![CDATA[Joseph Maddela]]></dc:creator>
+		<pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+				<guid isPermaLink="false">http://pacser.org/?post_type=music&#038;p=1271</guid>
+
+					<description><![CDATA[<p>The post <a href="http://pacser.org/music/carlson-serenade-no-2/">Carlson Serenade No. 2</a> appeared first on <a href="http://pacser.org">Pacific Serenades</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a href="http://pacser.org/music/carlson-serenade-no-2/">Carlson Serenade No. 2</a> appeared first on <a href="http://pacser.org">Pacific Serenades</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Kyr Pacific Serenades</title>
+		<link>http://pacser.org/music/kyr-pacific-serenades/</link>
+		
+		<dc:creator><![CDATA[Joseph Maddela]]></dc:creator>
+		<pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+				<guid isPermaLink="false">http://pacser.org/?post_type=music&#038;p=1324</guid>
+
+					<description><![CDATA[<p>The post <a href="http://pacser.org/music/kyr-pacific-serenades/">Kyr Pacific Serenades</a> appeared first on <a href="http://pacser.org">Pacific Serenades</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a href="http://pacser.org/music/kyr-pacific-serenades/">Kyr Pacific Serenades</a> appeared first on <a href="http://pacser.org">Pacific Serenades</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Beck September Music</title>
+		<link>http://pacser.org/music/beck-september-music/</link>
+		
+		<dc:creator><![CDATA[Joseph Maddela]]></dc:creator>
+		<pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+				<guid isPermaLink="false">http://pacser.org/?post_type=music&#038;p=1448</guid>
+
+					<description><![CDATA[<p>The post <a href="http://pacser.org/music/beck-september-music/">Beck September Music</a> appeared first on <a href="http://pacser.org">Pacific Serenades</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a href="http://pacser.org/music/beck-september-music/">Beck September Music</a> appeared first on <a href="http://pacser.org">Pacific Serenades</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
